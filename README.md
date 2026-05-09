@@ -4,6 +4,7 @@
 This project analyzes the impact of Artificial Intelligence on workforce transformation, automation risk, and skill shifts across industries and job roles. Interactive dashboards were created using Excel, Tableau, Power BI, and Python to visualize automation trends, high-risk job roles, industry comparisons, and workforce insights.
 
 ## Tools & Technologies
+- Wordpad
 - Excel
 - Tableau
 - Power BI
