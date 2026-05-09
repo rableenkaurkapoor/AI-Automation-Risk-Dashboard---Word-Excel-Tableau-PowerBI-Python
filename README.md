@@ -30,7 +30,7 @@ This project analyzes the impact of Artificial Intelligence on workforce transfo
 <img width="1545" height="868" alt="image" src="https://github.com/user-attachments/assets/5b32e6ce-97ae-4beb-8b5a-0e0a44657e8f" />
 
 ### Python Dashboard
-<img width="1103" height="792" alt="image" src="https://github.com/user-attachments/assets/1052fa4a-6d1f-4749-8b63-aab72670f320" />
+<img width="1105" height="801" alt="image" src="https://github.com/user-attachments/assets/b3e0c90f-eba7-43d1-941e-23b350afafa6" />
 
 ## Key Insights
 - Identified industries with high automation risk
