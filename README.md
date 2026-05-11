@@ -12,12 +12,6 @@ This project analyzes the impact of Artificial Intelligence on workforce transfo
 - Data Visualization
 - KPI Reporting
 
-## Project Files
-- Excel Dashboard
-- Tableau Dashboard
-- Power BI Dashboard
-- Python Visualization Dashboard
-- Project Presentation (PPT)
 
 ## Dashboard Images
 
@@ -42,3 +36,11 @@ This project analyzes the impact of Artificial Intelligence on workforce transfo
 
 ## Presentation
 Project presentation PPT is attached in this repository, along with the dataset, Python code and other relevant documents. 
+
+
+## Project Files
+- Excel Dashboard
+- Tableau Dashboard
+- Power BI Dashboard
+- Python Visualization Dashboard
+- Project Presentation (PPT)
